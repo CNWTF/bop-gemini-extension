@@ -1,0 +1,10 @@
+{
+  "name": "bop",
+  "version": "1.0.0",
+  "description": "Find gyms and personal trainers in Taiwan, check open time slots, and book, pay for, change or cancel sessions.",
+  "mcpServers": {
+    "bop": {
+      "httpUrl": "https://mcp.srct.tw/mcp"
+    }
+  }
+}
